@@ -1,2 +1,2 @@
-# FlappyBird-Godot
+# Flappy Bird in Godot
 A FlappyBird clone made using Godot engine v. 4.2.1 
